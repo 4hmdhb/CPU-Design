@@ -13,5 +13,5 @@ The CPU is implemented with a two stage pipeline.
 
 
 
-This project is done in Logisim. Copy this directory, run <mark>bash test.sh download_tools</mark> to download Venus and Logisim for this project. 
-To open Logisim, run <mark>java -jar tools/logisim-evolution.jar</mark>
+This project is done in Logisim. Copy this directory, run <strong>bash test.sh download_tools</strong> to download Venus and Logisim for this project. 
+To open Logisim, run <strong>java -jar tools/logisim-evolution.jar</strong>
